@@ -533,6 +533,7 @@ section {
   .header.active {
     height: 6rem;
     transition: height 0.5s;
+    z-index: 20;
   }
   /* hero */
   .title {
